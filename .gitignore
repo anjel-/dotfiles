@@ -1,0 +1,12 @@
+#SVN folder
+.svn/
+#archive folder to keep original files
+archive/
+#Windows editors backups
+*.bak
+#gitignore some help repos
+dotfiles-framework-Trevor/
+dotfiles-Holman/
+dotfiles-Mathias/
+dotfiles-Plekhanov/
+dotfiles-rtomayko/
